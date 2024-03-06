@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\POLE plus_minus\bin\Debug\POLE plus_minus.exe.config
+C:\Users\student\source\repos\POLE plus_minus\bin\Debug\POLE plus_minus.exe
+C:\Users\student\source\repos\POLE plus_minus\bin\Debug\POLE plus_minus.pdb
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE plus_minus.csprojAssemblyReference.cache
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE_plus_minus.Form1.resources
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE_plus_minus.Properties.Resources.resources
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE plus_minus.csproj.GenerateResource.cache
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE plus_minus.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE plus_minus.exe
+C:\Users\student\source\repos\POLE plus_minus\obj\Debug\POLE plus_minus.pdb
